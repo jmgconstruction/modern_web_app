@@ -38,3 +38,4 @@ const Property = ({ property: { coverPhoto, price, rentFrequency, rooms, title, 
 );
 
 export default Property;
+
